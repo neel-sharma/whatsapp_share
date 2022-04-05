@@ -14,7 +14,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:requestLegacyExternalStorage="true"
-        android:name="io.flutter.app.FlutterApplication"
+        android:name=".MainActivity"
         android:icon="@mipmap/ic_launcher"
         android:label="whatsapp_share_example">
         <activity android:name="io.flutter.embedding.android.FlutterActivity"
